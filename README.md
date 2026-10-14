@@ -166,21 +166,13 @@ School projects and assignments from university, written mostly in **C++, C# and
 <br/><br/>
 <img src="./assets/achievements.svg" width="100%" alt="Achievements: Global Game Jam 2025, GameJam Anahuac 2026, Unity Adventurer, Multi-class Coder, Leveling up C#, Main Quest HERA" />
 
-<br/>
 
-<img src="./assets/banner-minigame.svg" width="100%" alt="MINI GAME" />
-<br/><br/>
-<img src="./assets/runner.svg" width="100%" alt="Pixel art runner mini game" />
-
-<br/>
-
-
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting! Insert coin to continue" />
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:litzyrichaud@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LitzyAlex)
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting! Insert coin to continue" />
 
 </div>
 
